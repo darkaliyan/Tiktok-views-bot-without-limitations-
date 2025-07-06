@@ -1,3 +1,5 @@
-2.56.119.95:5074
-185.191.229.156:7392
-185.198.228.220:7301
+14.241.80.37:8080      # Vietnam, HTTPS, checked 5 seconds ago 1
+105.225.53.124:3128    # South Africa, HTTPS, checked 5 seconds ago 2
+139.59.1.14:80         # India, HTTP, checked 15 seconds ago 3
+209.97.150.167:8080    # US, anonymous HTTP, checked 15 seconds ago 4
+198.199.86.11:8080     # US, anonymous HTTPS, checked 15 seconds ago 5
